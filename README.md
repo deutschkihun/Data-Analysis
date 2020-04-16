@@ -25,7 +25,14 @@ In this repository you can learn about how to start analyzing many differnt type
   7. Probability 
 - Throughout you can learn statistical method with practical dataset
 
-## Project 4 : Twitter API 
+
+## Project 4 : Visualization case study -updating(*)
+- In this project following contents are covered
+ 1.Bivariate exploration of data
+ 2.Univariate exploration of data
+ 3.Multivariate exporation of data 
+
+## Project 5 : Twitter API -updating(*)
 
 
 
