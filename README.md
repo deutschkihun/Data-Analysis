@@ -28,10 +28,11 @@ In this repository you can learn about how to start analyzing many differnt type
 
 ## Project 4 : Visualization case study 
 - In this project following contents are covered
-
-  1.Bivariate exploration of data
-  2.Univariate exploration of data
-  3.Multivariate exporation of data 
+  
+ 1. Univariate Exploration of data 
+ 2. Bivariate Exploration of data
+ 3. Multivariate Exploration of data
+ 
 
 ## Project 5 : WeRateDog 
 -WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.That means there are ratings greater than 10. 11/10, 12/10, 13/10.
