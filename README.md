@@ -26,13 +26,22 @@ In this repository you can learn about how to start analyzing many differnt type
 - Throughout you can learn statistical method with practical dataset
 
 
-## Project 4 : Visualization case study -updating(*)
+## Project 4 : Visualization case study 
 - In this project following contents are covered
  1.Bivariate exploration of data
  2.Univariate exploration of data
  3.Multivariate exporation of data 
 
-## Project 5 : Twitter API -updating(*)
+## Project 5 : WeRateDog 
+-WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.That means there are ratings greater than 10. 11/10, 12/10, 13/10.
+-Wrangling WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.There are 3 kinds of files that you have to gather,asssess and clean it properly.
+-In this project following contents are covered 
 
-
+ 1. Gathering : CSV,TSV,JSON with txt files. 
+ 2. Assessing : head,tail,sample,describe.... and Finding quaility and tidiness issuse. 
+ 3. Cleaning : clean **'Validation'.'Consistency','Completence','Accuracy'** issuse with many different fuctions and tools.
+ 
+ 
+ ## Project 6 : Prosper Loan 
+ 
 
