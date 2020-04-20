@@ -34,6 +34,7 @@ In this repository you can learn about how to start analyzing many differnt type
 
 ## Project 5 : WeRateDog 
 -WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.That means there are ratings greater than 10. 11/10, 12/10, 13/10.
+
 -Wrangling WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.There are 3 kinds of files that you have to gather,asssess and clean it properly.
 -In this project following contents are covered 
 
