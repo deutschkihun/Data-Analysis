@@ -27,6 +27,7 @@ In this repository you can learn about how to start analyzing many differnt type
 
 
 ## Project 4 : Visualization case study 
+
 - In this project following contents are covered
  1.Bivariate exploration of data
  2.Univariate exploration of data
