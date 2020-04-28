@@ -12,6 +12,10 @@ Have you ever tried to ride on shareable bike? Ford Gobike is one of shareable b
 3. Multivariate Exploration of data : More than 2 variables visualization
 
 
+## Summary of finding
+
+> The meaning of the main features of dataset and finding relationships between two features   
+
 ## Key Insights for Presentation
 
 > How look different graphs depend on what kind of variables were used in differnt plotting skill 
