@@ -1,6 +1,5 @@
-# Ford Gobike result study
+# Bay Wheels's user data 
 ## by Kihun Kim
-
 
 ## Preliminary Wrangling : Motivation 
 
