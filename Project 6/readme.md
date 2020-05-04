@@ -1,9 +1,9 @@
-# Bay Wheels's user data 
+# Bay Wheels user data 
 ## by Kihun Kim
 
 ## Preliminary Wrangling : Motivation 
 
-Have you ever tried to ride on shareable bike? Ford Gobike is one of shareable bike provider in US.Original dataset that we will use for this study,is saved by user data.That means we can get Information about how long,where and when Customer used this services. Moreover this project is more about visualization not wrangling.Therefore wrangling part will be presented minimum to concentrate more on visualization 
+Have you ever tried to ride on shareable bike? Bay Wheels is one of shareable bike provider in US.Original dataset that we will use for this study,is saved by user data.That means we can get Information about how long,where and when Customer used this services. Moreover this project is more about visualization not wrangling.Therefore wrangling part will be presented minimum to concentrate more on visualization 
 
 ## Summary of finding
 
