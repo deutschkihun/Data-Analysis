@@ -1,6 +1,17 @@
 # Bay Wheels user data 
 ## by Kihun Kim
 
+
+## Information about each files 
+> Bay-wheel.zip : soruce file.It was compressed becuase raw data is too large.
+> Bay_wheels_templates.ipynb : source code
+> Bay_wheels_templates.html : source code html file.Because folium is not visualized in Github I added html file to see the mapping result. 
+> output_toggle.tpl : This file help us to see the slide show in online 
+> slide_show_templates.ipynb : source code of slide show(slide_show_templates.slides.html)
+
+> slide_show_templates.slides.html : slide show in online.This is very useful for presentation  with python code
+
+
 ## Preliminary Wrangling : Motivation 
 
 Have you ever tried to ride on shareable bike? Bay Wheels is one of shareable bike provider in US.Original dataset that we will use for this study,is saved by user data.That means we can get Information about how long,where and when Customer used this services. Moreover this project is more about visualization not wrangling.Therefore wrangling part will be presented minimum to concentrate more on visualization 
