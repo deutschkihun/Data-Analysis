@@ -5,6 +5,9 @@
 
 ## Project 1 : Comparison of global temperature 
 >  In this project following contents are covered
+1. How to load the csv file
+   2. Basic skill of Matplotlib and seaborn 
+   3. Interpretation of analysis from graph 
    1. How to load the csv file
    2. Basic skill of Matplotlib and seaborn 
    3. Interpretation of analysis from graph 
