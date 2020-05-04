@@ -13,7 +13,7 @@ In this repository you can learn about how to start analyzing many differnt type
 - This data comes from Kaggle competition (https://www.kaggle.com/joniarroba/noshowappointments).
 - Throughout you can learn about basic libraries in practical way like pandas,numpy and matplotlib
 
-## Project 3: A/B Test
+## Project 3: A/B Testing with statistics
 - A/B Test is most popular statistical method to help rational decision of business in company
 - In order to understand this project following knowledges are required
   1. normal distribution/binomial distribution 
