@@ -18,12 +18,10 @@
   - Throughout you can learn statistical method with practical dataset
 
 
-## Project 4 : Visualization case study 
-  
-1. Univariate Exploration of data 
-2. Bivariate Exploration of data
-3. Multivariate Exploration of data
- 
+## Project 4 : Visualization case study
+  1. Univariate Exploration of Data
+  2. Bivariate Exploratio of Data
+  3. Multivariate Exploration of Data
 
 ## Project 5 : WeRateDog 
 - WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a     denominator of 10.That means there are ratings greater than 10. 11/10, 12/10, 13/10.
