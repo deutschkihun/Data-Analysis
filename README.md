@@ -37,9 +37,8 @@ Part3: Cleaning : clean **'Validation'.'Consistency','Completence','Accuracy'** 
 
 ## Project 6 : Bay wheels's user dat 
  
-Have you ever tried to ride on shareable bike? Bay wheels is one of shareable bike provider in US.Original dataset that we will use for this study,is saved by user data.That means we can get Information about how long,where and when Customer used this services. Moreover this project is more about visualization not wrangling.Therefore wrangling part will be presented minimum to concentrate more on visualization 
+- Have you ever tried to ride on shareable bike? Bay wheels is one of shareable bike provider in US.Original dataset that we will use for this study,is saved by user data.That means we can get Information about how long,where and when Customer used this services. Moreover this project is more about visualization not wrangling.Therefore wrangling part will be presented minimum to concentrate more on visualization 
 
-> **structure**
 Part1: Bivariate Exploration of data :  Single variable visualization
 Part2: Univariate Exploration of data : Two variables visualization
 Part3: Multivariate Exploration of data : More than 2 variables visualization
