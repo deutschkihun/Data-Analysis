@@ -43,6 +43,6 @@
 
 2.Univariate Exploration of data : Two variables visualization
 
-3. Multivariate Exploration of data : More than 2 variables visualization
+3.Multivariate Exploration of data : More than 2 variables visualization
  
 
