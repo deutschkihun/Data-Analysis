@@ -19,27 +19,25 @@
 
 
 ## Project 4 : Visualization case study
+- This project is a case study of different visualization type
   1. Univariate Exploration of Data
   2. Bivariate Exploratio of Data
   3. Multivariate Exploration of Data
 
-## Project 5 : WeRateDog 
-- WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a     denominator of 10.That means there are ratings greater than 10. 11/10, 12/10, 13/10.
+## Project 5 : WeRateDog (Tweet API) 
+- WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
 
 - Wrangling WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.There are 3 kinds of files that you have to gather,asssess and clean it properly.
-
-1. Gathering : CSV,TSV,JSON with txt files. 
-2. Assessing : head,tail,sample,describe.... and Finding quaility and tidiness issuse. 
-3. Cleaning : clean **'Validation'.'Consistency','Completence','Accuracy'** issuse with many different fuctions and tools.
+    1. Gathering : CSV,TSV,JSON with txt files. 
+    2. Assessing : head,tail,sample,describe.... and Finding quaility and tidiness issuse. 
+    3. Cleaning : clean **'Validation'.'Consistency','Completence','Accuracy'** issuse with many different fuctions and tools.
 
 ## Project 6 : Bay wheels's user dat 
  
 - Have you ever tried to ride on shareable bike? Bay wheels is one of shareable bike provider in US.Original dataset that we will use for this study,is saved by user data.That means we can get Information about how long,where and when Customer used this services. Moreover this project is more about visualization not wrangling.Therefore wrangling part will be presented minimum to concentrate more on visualization 
-
-1.Bivariate Exploration of data :  Single variable visualization
-
-2.Univariate Exploration of data : Two variables visualization
-
-3.Multivariate Exploration of data : More than 2 variables visualization
+  1. Bivariate Exploration of data 
+  2. Univariate Exploration of data 
+  3. Multivariate Exploration of data
+  4. Presentation slides
  
 
