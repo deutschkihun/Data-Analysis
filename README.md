@@ -1,9 +1,9 @@
 # Data-Analysis 
 
 ## Project 1: No-show appointment 
-> This data comes from Kaggle competition [Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments).
+This data comes from Kaggle competition [Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments).
   
-  Throughout you can learn about basic libraries in practical way like pandas,numpy and matplotlib.
+Throughout you can learn about basic libraries in practical way like pandas,numpy and matplotlib.
 
 ## Project 3: A/B Testing with statistics
 > A/B Test is most popular statistical method to help rational decision of business in company
