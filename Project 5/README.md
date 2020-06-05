@@ -1,20 +1,5 @@
 ## Information about each files 
 
-- **wrangle_act.ipynb : source code of data wrangling  (main code)**
-
-- image-predictions.tsv : Image prediction of Dogs in tweet, this file will be used in wrangle_act ipynb.
-
-- tweet_json_gathering.html : crwaling WeRateDog tweet with tweepy.
-
-- tweet-json.txt : tweet json file will be saved as txt file. 
-
-- twitter_api.csv : tweet-json.txt will be saved as csv file. 
-
-- twitter-archive-enhanced.csv : This file is information about retweet and prediction 
-
-- wrangle_act.ipynb : source code of data wrangling 
-
-- twitter_archive_master.csv / twitter_archive_master2.csv : merge / queried data from wrangling_act.ipynb
 
 
 
