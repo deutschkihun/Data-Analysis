@@ -1,7 +1,4 @@
-## Information about each files 
-
-
-
+##  WeRateDog Tweet Analysis
 
 ### Visualization report 
 **Graph 1 : Confidence rate**
