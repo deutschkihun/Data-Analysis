@@ -16,26 +16,3 @@ This report help readerto understand easiy what I was trying show in this projec
 
 The first step that I did for wrangling was gathering.Gathering is collecting the data so that we can assess and clean the data. So gather is very important step.If we make a mistake we can't go one step further.
 
-#### 1.Gathering
-We have 3 differnt type of files, namely csv,tsvand JSON.We can load csv with pd.read_csv(""). For tsv we do same as csv but we have to add seperator sep otherwise all data are save in one column.For JSON we need first special library(called tweepy) in order to query twitter_api.Beside import json is required because through tweepy queried table is written by json. So as you can see in the jupyter file we got json file called tweet(you can define whatever you want,I just took eaier name).
-
-We need ID,retweet_count,favorite_count from tweet file. So I used for-loop and dictionary to get relevant informations.In the end we saved as twitter_api.csv.
-
-#### 2.Assessing
-Aseessing a data is a process of measuring the table in many differnt ways.There are the programmatic assessment methods in pandas that I used in this project.
-
-- head(DataFrames and Series)
-- tail(DataFrames and Series)
-- sample(DataFrames and Series)
-- info(DataFrames only)
-- describe(DataFrames and Series)
-- value_counts(Series only)
-
-And then  figured out the quality issues and tidiness issuse of each files.
-
-#### 3.Cleaning
-As you can see the title this part is cleaning session.Above we defined quality and tidness issuse.Now it's time to solve issues.To lose the problem we have to take 3 steps to built a better structure.
-
-- Define : Validity / Consistency / Accuracy / Completness
-- Code
-- Test
