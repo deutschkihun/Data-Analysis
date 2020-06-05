@@ -1,5 +1,7 @@
 ## Information about each files 
 
+- **wrangle_act.ipynb : source code of data wrangling  (main code)**
+
 - image-predictions.tsv : Image prediction of Dogs in tweet, this file will be used in wrangle_act ipynb.
 
 - tweet_json_gathering.html : crwaling WeRateDog tweet with tweepy.
