@@ -2,17 +2,17 @@
 ## by Kihun Kim
 
 
-## Information about each files 
-> Bay-wheel.zip : soruce file.It was compressed becuase raw data is too large.
-> Bay_wheels_templates.ipynb : source code
+## File informations
+- Bay-wheel.zip : soruce file.It was compressed becuase raw data is too large.
+- Bay_wheels_templates.ipynb : source code
 
-> Bay_wheels_templates.html : source code html file.Because folium is not visualized in Github I added html file to see the mapping result. 
+- Bay_wheels_templates.html : source code html file.Because folium is not visualized in Github I added html file to see the mapping result. 
 
-> output_toggle.tpl : This file help us to see the slide show in online 
+- output_toggle.tpl : This file help us to see the slide show in online 
 
-> slide_show_templates.ipynb : source code of slide show(slide_show_templates.slides.html)
+- slide_show_templates.ipynb : source code of slide show(slide_show_templates.slides.html)
 
-> slide_show_templates.slides.html : slide show in online.This is very useful for presentation  with python code
+- slide_show_templates.slides.html : slide show in online.This is very useful for presentation  with python code
 
 
 ## Preliminary Wrangling : Motivation 
