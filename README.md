@@ -1,7 +1,7 @@
 # Data-Analysis 
 
-## Project 3: A/B Testing with statistics
-- A/B Test is most popular statistical method to help rational decision of business in company
+## AB Testing
+- AB Test is most popular statistical method to help rational decision of business in company
 - In order to understand this project following knowledges are required
   1. normal distribution/binomial distribution 
   2. Confidence interval 
@@ -9,7 +9,8 @@
   4. Regression / Multiple Regression / Logistic Regression 
   5. Hypothese Testing 
   6. Bootstraping 
-  - Throughout you can learn statistical method with practical dataset
+  
+- Here is my soure file link : [Source file folder](https://drive.google.com/drive/folders/1h8b_MaWmRmh1ugzvpO2UxIioRrOeezy3?usp=sharing)
 
 
 ## Project 4 : Visualization case study
